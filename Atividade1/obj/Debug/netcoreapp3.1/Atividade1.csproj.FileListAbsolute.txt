@@ -1,0 +1,15 @@
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.exe
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.deps.json
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.json
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.dev.json
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.dll
+C:\Uninove\Atividade1\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csprojAssemblyReference.cache
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.Form1.resources
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.GenerateResource.cache
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfoInputs.cache
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfo.cs
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.dll
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Uninove\Atividade1\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.genruntimeconfig.cache
